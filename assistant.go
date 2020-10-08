@@ -26,7 +26,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/MuratSs/assistant/internal/cmd"
+	"github.com/MuratSs/go-assistant/internal/cmd"
 )
 
 func main() {
