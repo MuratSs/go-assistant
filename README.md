@@ -1,5 +1,5 @@
 # Assistant
-
+[![Go Report Card](https://goreportcard.com/badge/github.com/MuratSs/go-assistant)](https://goreportcard.com/report/github.com/MuratSs/go-assistant)
 It's small project for my small one board computer. 
 This project has made for the resolve my tasks which I need to do on one board computer.
 If you have thinking this project can be useful for you - just use it. 
